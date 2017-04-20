@@ -14,9 +14,9 @@
     <center><div id="form">
             <h3>Sua Conta</h3>
     <div class="col-md-12">        
-        <form action="#" method="POST" id="e">
-            Usuario :
-            <input type="text" name="name" id="nome" placeholder="Nome do Usuario" >
+        <form action="Contas.php" method="POST" id="e">
+            Nick :
+            <input type="text" name="nick" id="nome" placeholder="Nome do Usuario" >
             <br>
             Senha :
             <input type="password" name="senha" placeholder="Digite a sua Senha">

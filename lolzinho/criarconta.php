@@ -12,12 +12,12 @@
 	<?php include 'asset/Menu.php'; ?>
 	<center><div id="form">
 		<h3>Criando uma nova conta</h3>
-		<form action="#" method="POST" id="e">
+		<form action="registro.php" method="POST">
 			<label>Nome :</label>
 			<input type="text" name="nome" placeholder="Nome do Usuario">
 			<br>
-			<label>Name:</label>
-			<input type="text" name="sobrenome" placeholder="Nome do Jogador">
+			<label>Nick :</label>
+			<input type="text" name="nick" placeholder="Nome do Jogador">
 			<br>
 			<label>Email :</label>
 			<input type="text" name="email" placeholder="Digite seu Email">
